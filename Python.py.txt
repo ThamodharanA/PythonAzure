@@ -1,0 +1,19 @@
+1.upto pusing the file to github is the same like 1st experiment.
+2.open dev.azure.com in the browser
+3.get free
+4.ur credentials
+5.no change, give the captcha nd continue
+6.create project: pythondeployment
+7.public/prive anything
+8.create
+9.project will be created. down click on pipeline
+10.click on create pipeline
+11.our code is in github. where is your code? for this select github
+12.click on Authorize azure pipeline
+13.select repository (PythonAzure)
+14.approve and install
+15.login with ur microsoft account
+16.configure your pipeline, here select your existing Azure pipelines YAML
+17.right side window, down...>select ur PythonAzure repository
+18.you can find ur Add.py.txt file here
+19.Save and run
